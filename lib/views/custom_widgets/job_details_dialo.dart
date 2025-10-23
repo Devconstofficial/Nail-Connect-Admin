@@ -10,7 +10,7 @@ import '../../utils/app_constant_function.dart';
 import '../../utils/app_styles.dart';
 
 class JobDetailsDialog extends StatelessWidget {
-  JobDetailsDialog({super.key});
+  const JobDetailsDialog({super.key});
 
   @override
   Widget build(BuildContext context) {

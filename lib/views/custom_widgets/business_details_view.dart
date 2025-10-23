@@ -9,7 +9,7 @@ import '../../utils/app_constant_function.dart';
 import '../../utils/app_styles.dart';
 
 class BusinessDetailsView extends StatelessWidget {
-  BusinessDetailsView({super.key});
+  const BusinessDetailsView({super.key});
 
   @override
   Widget build(BuildContext context) {
