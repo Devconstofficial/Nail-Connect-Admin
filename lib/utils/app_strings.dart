@@ -1,0 +1,10 @@
+const String kLoginScreenRoute = '/LoginScreenRoute';
+const String kForgotPasswordScreenRoute = '/ForgotPasswordScreenRoute';
+const String kVerifyOtpScreenRoute = '/VerifyOtpScreenRoute';
+const String kNewPasswordScreenRoute = '/NewPasswordScreenRoute';
+const String kSideMenuScreenRoute = '/SideMenuScreenRoute';
+const String kDashboardScreenRoute = '/DashboardScreenRoute';
+const String kReportsScreenRoute = '/ReportsScreenRoute';
+const String kJobsScreenRoute = '/JobsScreenRoute';
+const String kUsersScreenRoute = '/UsersScreenRoute';
+const String kSettingsScreenRoute = '/SettingsScreenRoute';
